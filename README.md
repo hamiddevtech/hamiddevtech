@@ -10,7 +10,7 @@
 
 - 🔭 Previous Project 2 [Virgin Pulse - iOS App](https://apps.apple.com/us/app/sharkclean/id1271409097)
 
-- 💬 Ask me about **Swift, SwiftUI, UIKit, Ojective-C, SPM, Frameworks, System Design**
+- 💬 Ask me about **Swift, SwiftUI, UIKit, Ojective-C, SPM, Frameworks, System Design, Data Structures, Algorithms**
   
 - 📫 Reach me out at **hamidmustafa.07@gmail.com**
 
