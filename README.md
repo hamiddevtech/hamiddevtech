@@ -1,3 +1,26 @@
+Yes — copy/paste this full version into your GitHub profile `README.md`. This uses **pure HTML tables** for icons, so they should stay in rows instead of columns. It also removes the broken GitHub stats image. Based on your original README content. 
+
+```html
+<h3 align="center">I'm a Senior iOS Engineer building scalable software infrastructure for iOS mobile apps.</h3>
+
+<p align="center">
+  <a href="https://twitter.com/hamiddevtech" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/hamiddevtech?logo=twitter&style=for-the-badge" alt="hamiddevtech" />
+  </a>
+</p>
+
+- 🔭 Current Project 1: [Fidelity Investments - iOS App](https://apps.apple.com/us/app/fidelity-investments/id348177453)
+
+- 🔭 Current Project 2: [Fidelity Bloom - iOS App](https://apps.apple.com/us/app/fidelity-bloom-save-spend/id1560669537)
+
+- 🔭 Previous Project 1: [SharkClean - iOS App](https://apps.apple.com/us/app/sharkclean/id1271409097)
+
+- 🔭 Previous Project 2: [Virgin Pulse - iOS App](https://apps.apple.com/us/app/virgin-pulse/id336456988)
+
+- 💬 Ask me about **Swift, SwiftUI, UIKit, Objective-C, SPM, Frameworks, Mobile Architecture, System Design, Data Structures, Algorithms**
+
+- 📫 Reach me at **hamidmustafa.07@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 
 <table>
@@ -118,3 +141,4 @@
     </td>
   </tr>
 </table>
+```
