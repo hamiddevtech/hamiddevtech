@@ -1,6 +1,3 @@
-Yes — copy/paste this full version into your GitHub profile `README.md`. This uses **pure HTML tables** for icons, so they should stay in rows instead of columns. It also removes the broken GitHub stats image. Based on your original README content. 
-
-```html
 <h3 align="center">I'm a Senior iOS Engineer building scalable software infrastructure for iOS mobile apps.</h3>
 
 <p align="center">
@@ -141,4 +138,3 @@ Yes — copy/paste this full version into your GitHub profile `README.md`. This 
     </td>
   </tr>
 </table>
-```
