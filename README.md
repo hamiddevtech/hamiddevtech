@@ -6,13 +6,13 @@
   </a>
 </p>
 
-- 🔭 Current Project 1: [Fidelity Investments - iOS App](https://apps.apple.com/us/app/fidelity-investments/id348177453)
+- 🔭 Project 1: [Fidelity Investments - iOS App](https://apps.apple.com/us/app/fidelity-investments/id348177453)
 
-- 🔭 Current Project 2: [Fidelity Bloom - iOS App](https://apps.apple.com/us/app/fidelity-bloom-save-spend/id1560669537)
+- 🔭 Project 2: [Fidelity Bloom - iOS App](https://apps.apple.com/us/app/fidelity-bloom-save-spend/id1560669537)
 
-- 🔭 Previous Project 1: [SharkClean - iOS App](https://apps.apple.com/us/app/sharkclean/id1271409097)
+- 🔭 Project 3: [SharkClean - iOS App](https://apps.apple.com/us/app/sharkclean/id1271409097)
 
-- 🔭 Previous Project 2: [Virgin Pulse - iOS App](https://apps.apple.com/us/app/virgin-pulse/id336456988)
+- 🔭 Project 4: [Virgin Pulse - iOS App](https://apps.apple.com/us/app/virgin-pulse/id336456988)
 
 - 💬 Ask me about **Swift, SwiftUI, UIKit, Objective-C, SPM, Frameworks, Mobile Architecture, System Design, Data Structures, Algorithms**
 
