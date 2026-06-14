@@ -1,4 +1,4 @@
-<h3 align="center">I'm a Senior iOS Engineer building scalable software infrastructure for iOS mobile apps.</h3>
+<h3 align="center">I'm a Principal iOS Engineer building scalable software infrastructure for iOS mobile apps.</h3>
 
 <p align="center">
   <a href="https://twitter.com/hamiddevtech" target="_blank">
